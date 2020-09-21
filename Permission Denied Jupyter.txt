@@ -1,0 +1,4 @@
+Run below commands and then run jupyter notebook
+
+sudo chown -R $USER /home/
+sudo chown -R $USER ~/.jupyter/

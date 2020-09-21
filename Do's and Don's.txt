@@ -1,0 +1,5 @@
+Don't copy paste bash command to install anaconda after downloading.
+Type it out.
+
+use 'ls' command to list directories/files in current directory.
+use 'clear' to clear console
